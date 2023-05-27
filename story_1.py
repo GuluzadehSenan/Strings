@@ -48,3 +48,6 @@ print(
     p,
 )
 
+q="Onemli olan meseleye bir terefden deyil herterefli baxmaqdir."
+q=q.upper()
+print("\n","\t",q)
